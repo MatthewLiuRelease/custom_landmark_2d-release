@@ -1,8 +1,0 @@
-ros-indigo-custom-landmark-2d (1.0.0-0trusty) trusty; urgency=high
-
-  * Initial release of custom_landmark_2d
-  * Contributors: Matthew Liu
-
- -- Matthew Liu <liux44@cs.washington.edu>  Tue, 13 Feb 2018 08:00:00 -0000
-
-
